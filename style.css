@@ -55,15 +55,16 @@
 
 
 /* Setting up the home page title */
-.home-page.titles {
-    color:beige;
-  }
-
-.home-page.h1 {
+.main-title {
     color:beige;
     margin-bottom: 20px;
     text-align: center;
   }
+  
+.titles {
+    color:beige;
+  }
+
 
 /* Setting up the cat page title */
 .title-cat{
